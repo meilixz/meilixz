@@ -36,7 +36,6 @@ I'm still figuring out which part of tech interests me most, but I'm curious abo
 I'm using GitHub to document my progress, experiment with new ideas, and keep track of what I learn. Every project is an opportunity to improve.
 ## 🤝 Connect With Me
 - Github: @meilixz
-- Email: @kiaramfung11@gmail.com
 Thanks for stopping by! 😊
 
 
